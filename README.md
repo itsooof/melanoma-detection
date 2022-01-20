@@ -1,2 +1,1 @@
-# melanoma-detection
- 
+# Melanoma Detection
