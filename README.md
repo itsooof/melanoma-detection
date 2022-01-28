@@ -1,5 +1,5 @@
 # Melanoma Detection
-This will be my academic project for CSE-2038 (Fundamentals of Artificial Intelligence). In this repository, I have worked on building different Convolutional Neural Networks from a couple of research papers. 
+This will be my academic project for CSE-2039 (Fundamentals of Artificial Intelligence). In this repository, I have worked on building different Convolutional Neural Networks from a couple of research papers. 
 
 The main API used for the project is `TensorFlow`.
 
